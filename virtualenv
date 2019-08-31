@@ -1,0 +1,24 @@
+comandos para activar virtualenv:
+
+cd  nombre_proyecto
+cd bin
+ls
+#buscar activate
+chmod +x activate
+source activate
+#ahora deberia funcionar
+# desactivar de la misma forma pero con deactivate 
+
+
+_________________________________________________________
+cd carpeta-mi-proyecto
+virtualenv nombre-proyecto
+activar ambiente virtaul con los comandos de arriba
+
+instalacion de modulos
+
+pip3 install jupyter
+pip3 install requests
+crear un jupyter notebook con el comandp jupyter notebook
+
+
